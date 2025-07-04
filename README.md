@@ -21,21 +21,21 @@ JobStack is a responsive job tracking web app that helps users organize and mana
 - React Hook Form
 
 ## 🎨 UI Preview
-<p align="center">
-  <img style="border-radius:10px" src="./screenshots/login-view.png" alt="Login View" width="400" />
-  <img style="border-radius:10px" src="./screenshots/login-mob-view.png" alt="Login Mobile View" width="200"/>
-</p>
 
-<p align="center">
-  <img style="border-radius:10px" src="./screenshots/signup-view.png" alt="Signup View" width="400"/>
-  <img style="border-radius:10px" src="./screenshots/signup-mob-view.png" alt="Signup Mobile View" width="200"/>
-</p>
+<div align="center">
+  <img src="./client/screenshots/login-view.png" alt="Login View" width="400" />
+  <img src="./client/screenshots/login-mob-view.png" alt="Login Mobile View" width="200" />
+</div>
 
-<p align="center">
-  <img style="border-radius:10px" src="./screenshots/dashboard-view.png" alt="Dashboard View" width="400"/>
-  <img style="border-radius:10px" src="./screenshots/dashboard-mob-view.png" alt="Dashboard Mobile View" width="200"/>
-</p>
+<div align="center">
+  <img src="./client/screenshots/signup-view.png" alt="signup View" width="400" />
+  <img src="./client/screenshots/signup-mob-view.png" alt="signup Mobile View" width="200" />
+</div>
 
+<div align="center">
+  <img src="./client/screenshots/dashboard-view.png" alt="dashboard View" width="400" />
+  <img src="./client/screenshots/dashboard-mob-view.png" alt="dashboard Mobile View" width="200" />
+</div>
 
 ## 📁 Folder Structure
 
