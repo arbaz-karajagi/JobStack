@@ -8,7 +8,7 @@ JobStack is a responsive job tracking web app that helps users organize and mana
 - ✅ User Login & Signup Forms  
 - 📋 Dashboard with Job Cards  
 - 📝 Add New Job Form  
-- 📂 Job Details View (e.g. http://localhost:5173/jobdetails/:farhan) 
+- 📂 Job Details View 
 - 🎯 Status Badges (e.g. Applied, Interview)  
 - 🔍 Responsive layout (mobile-first)  
 - 🧩 Reusable UI Components (Button, Input, Spinner, etc.)
@@ -61,7 +61,7 @@ src/<br/>
 
 
 ## Clone the repository
-git clone https://github.com/username/JobStack.git<br/>
+git clone https://github.com/arbaz-karajagi/JobStack.git<br/>
 cd JobStack
 
 ## Install dependencies
