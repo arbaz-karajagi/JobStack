@@ -61,7 +61,7 @@ src/<br/>
 
 
 ## Clone the repository
-git clone https://github.com/arbaz-karajagi/JobStack.git<br/>
+git clone https://github.com/username/JobStack.git<br/>
 cd JobStack
 
 ## Install dependencies
@@ -81,7 +81,7 @@ npm run dev
 📁 Job data persistence<br/>
 🎯 Backend deployment<br/>
 
-## 🙋 About Me
+## 🙋 Note
 This project was built fully from scratch as a portfolio project to practice my frontend skills, UI planning, component structuring, and form management in React.
 
 ## 📬 Contact
